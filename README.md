@@ -1,1 +1,1 @@
-# Import-Bible-to-Obsidian
+# Bible-to-Obsidian
