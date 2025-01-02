@@ -1,1 +1,1 @@
-# Bible-to-Obsidian-2
+# BibleGateway-to-Obsidian
